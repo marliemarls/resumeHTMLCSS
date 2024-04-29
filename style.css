@@ -1,0 +1,44 @@
+.resumeDiv{
+    background-color: rgb(242, 204, 247);
+    margin: 15px;
+    padding: 15px;
+    border-radius: 15px;
+    border: 1px;
+    border-style: solid;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+/* br{
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+} */
+
+h3{
+    text-decoration: underline;
+}
+
+.skillsDiv{
+    margin: 15px;
+    padding: 15px;
+    border-bottom: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+}
+
+.experienceDiv{   
+    border-bottom: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    margin: 15px;
+}
+.educationDiv {
+    border-bottom: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    margin: 15px;
+}
