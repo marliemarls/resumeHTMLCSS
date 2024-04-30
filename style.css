@@ -1,5 +1,18 @@
-.resumeDiv{
+body{
     background-color: rgb(242, 204, 247);
+}
+
+
+div, ol {
+    list-style: none;
+}
+
+a{
+    
+}
+
+.resumeDiv{
+    background-color: rgb(255, 239, 252);
     margin: 15px;
     padding: 15px;
     border-radius: 15px;
@@ -12,11 +25,12 @@ h1{
     justify-content: center;
 }
 
-/* br{
-    border: 2px;
-    border-style: solid;
-    border-color: black;
-} */
+img {
+    width: 12vh;
+    height: 15vh;
+    margin: 15px;
+    border-radius: 50%;
+}
 
 h3{
     text-decoration: underline;
