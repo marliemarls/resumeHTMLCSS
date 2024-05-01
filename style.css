@@ -20,6 +20,17 @@ h1{
 
 .imgAndBio{
     display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.imgDiv{
+    flex: 1;
+
+}
+
+.bioDiv{
+    flex: 2;
 }
 
 .marlieImg {
