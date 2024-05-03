@@ -30,7 +30,9 @@ h1{
 }
 
 .bioDiv{
-    flex: 2;
+    display: flex;
+    margin: 10px;
+    padding-right: 10px;
 }
 
 .marlieImg {
